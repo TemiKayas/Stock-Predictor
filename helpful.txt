@@ -1,0 +1,12 @@
+Separation of concerns
+- Create tweet CSV
+- Sentiment analysis
+- Get ticker data
+
+Problem with running through VS code
+- Validated python version, installed python through brew
+- Set python alias within .zshrc file in VS code (terminal in vs code)
+- Ran the scripts through terminal rather then running through VS code
+
+GitHub
+- Problem with authentication so we downloaded gh, and used gh auth login to get past password issue
